@@ -28,9 +28,11 @@ Essas Perguntas/Respostas tem o intuito de ser uma base para entrevistas e candi
 
   
 
-1.`O que é SQL injection?`<br/>
+1.`What's SQL injection?`<br/>
+SQL injection is a security vulnerability that consists in the user getting access to data from the DB through forms or other text inputs in an application.
 
 2.`O que é escopo em JavaScript?`<br/>
+Scope in JavaScript refers to the current context of code, which determines the accessibility of variables to JavaScript.
 
 3.`Explique o CSS “box model” e os componentes de layout que o compõem.`<br/>
 
